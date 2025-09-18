@@ -1,6 +1,7 @@
-🎨 VisionForge Image Editor - RunPod Client
+🎨 VisionForge Image Editor -  Client
 
-A powerful Python GUI application for image editing and generation using Qwen-Image-Edit and Qwen-Image T2I models via RunPod API.
+
+A powerful, creative AI-powered GUI application for image editing and generation.
 
 
 ✨ Features
