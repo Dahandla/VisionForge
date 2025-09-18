@@ -23,3 +23,5 @@ A powerful, creative AI-powered GUI application for image editing and generation
 
 💡 Helpful tooltips everywhere
 
+Usage video :
+https://youtu.be/yEHx7csl9ms
